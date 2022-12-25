@@ -7,4 +7,4 @@ This application is used to write and save notes. It uses an Express.js backend 
 The following animated photo shows the web application's appearance and functionality:
 ![Animated Gif](./assets/images/note-taker.gif)
 
-### Heroku Deployed Link: https://note-taker1023.herokuapp.com/
+### Heroku Deployed Link: https://zay-note-taker.herokuapp.com/
